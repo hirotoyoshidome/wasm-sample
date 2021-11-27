@@ -1,0 +1,10 @@
+{
+    "name": "wasm-sample",
+    "version": "0.0.1",
+    "description": "wasm-sample",
+    "private": true,
+    "main": "index.js",
+    "dependencies": {
+        "st": "^3.0.0"
+    }
+}
